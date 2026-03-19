@@ -1,70 +1,58 @@
-<h1 align="center">🚀 Nexora – AI Voice Assistant</h1> <h3 align="center"> Talk, listen, and interact with a futuristic AI assistant using both voice and text in real-time. </h3>
+<h1 align="center">🚀 Nexora – AI Voice Assistant</h1> 
+<h3 align="center"> Talk, listen, and interact with a futuristic AI assistant using both voice and text in real-time. </h3>
 
 ## 🌌 Overview
 
-Nexora is a futuristic AI-powered assistant that allows users to interact using both text and voice.
+**Nexora** is a futuristic **AI-powered assistant** that allows users to interact using both text and voice.
 It combines intelligent conversation, real-time responses, and an interactive UI to deliver a next-generation assistant experience.
 
-🌐 Live Demo: https://nexora-omega-mauve.vercel.app/
+- 🌐 **Live Demo:** https://nexora-omega-mauve.vercel.app/
 
-📂 GitHub Repository: https://github.com/your-username/Nexora
+- 📂 **GitHub Repository:** https://github.com/your-username/Nexora
 
+---
+## 💻 Tech Stack
 
+---
 ## ✨ Key Features
-💬 Smart AI Chat
 
-Real-time conversational AI
+- ✅ **Smart AI Chat:** Real-time conversational AI with context-aware responses
 
-Context-aware responses using LLM
+- ✅ **Voice Interaction:** Speak to Nexora and receive responses in text + voice
 
-🎤 Voice Interaction
+- ✅ **Dark / Light Mode:** Smooth UI theme switching
 
-Speak to Nexora using microphone
+- ✅ **Music Controls:** Interactive media control feature
 
-Get responses in both text + voice output
+- ✅ **Fast & Responsive:** Instant API responses with smooth UI
 
-🌗 Dark / Light Mode
+- ✅ **Fully Deployed:** Frontend on Vercel & Backend on Render
 
-Toggle between themes
+## 🛠 How I Built It
 
-Smooth and modern UI experience
+**Frontend:** Built using React (Vite) with clean and responsive UI
 
-🎵 Music & Controls
+**Backend:** Developed using FastAPI for fast API handling
 
-Built-in music control button
+**AI Integration:** Used Groq API for real-time LLM responses
 
-Enhances interactive experience
+**Voice System:** Integrated browser-based speech recognition & audio output
 
-⚡ Fast & Responsive
+**Deployment:** Vercel (frontend) and Render (backend)
 
-Instant API responses
+## 🎯 How to Use
 
-Clean and smooth UI
+Open the live app here:
+👉 https://nexora-omega-mauve.vercel.app/
 
-🌐 Fully Deployed
+Type your query or use the microphone to speak
 
-Frontend on Vercel
+Get instant AI-generated responses
 
-Backend on Render
+Toggle between dark and light modes
 
-## 🛠️ Tech Stack
-🔹 Frontend
+Use music controls for an enhanced experience
 
-React (Vite)
-
-HTML, CSS, JavaScript
-
-🔹 Backend
-
-FastAPI (Python)
-
-Groq API (LLM)
-
-🔹 Deployment
-
-Vercel (Frontend)
-
-Render (Backend)
 
 ## 🧩 Project Structure
 
@@ -80,10 +68,13 @@ Nexora/
 │
 ├── .gitignore
 └── README.md
+
 ## ⚙️ Local Setup
+
 1️⃣ Clone Repo
 git clone https://github.com/your-username/Nexora.git
 cd Nexora
+
 2️⃣ Backend Setup
 cd backend
 pip install -r requirements.txt
@@ -95,6 +86,7 @@ GROQ_API_KEY=your_api_key
 Run backend:
 
 uvicorn main:app --reload
+
 3️⃣ Frontend Setup
 cd frontend
 npm install
@@ -114,6 +106,7 @@ Response:
 {
   "response": "Hello! How can I assist you?"
 }
+
 ## 🎯 Unique Highlights
 
 🧠 Combines AI + Voice + UI/UX in one app
@@ -126,22 +119,12 @@ Response:
 
 🚀 Fully deployed full-stack project
 
-🔐 Environment Variables
+## 🔐 Environment Variables
 GROQ_API_KEY=your_secret_key
 
 ⚠️ Never expose your API key publicly.
 
-🚀 Future Enhancements
 
-🔐 User authentication
-
-💾 Chat history saving
-
-📄 File upload + AI summarization
-
-🌍 Multi-language support
-
-🤖 More advanced voice commands
 
 ## 👩‍💻 Author
 
