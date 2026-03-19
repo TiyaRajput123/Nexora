@@ -6,6 +6,7 @@ Nexora is a futuristic AI-powered assistant that allows users to interact using 
 It combines intelligent conversation, real-time responses, and an interactive UI to deliver a next-generation assistant experience.
 
 🌐 Live Demo: https://nexora-omega-mauve.vercel.app/
+
 📂 GitHub Repository: https://github.com/your-username/Nexora
 
 
@@ -66,6 +67,7 @@ Vercel (Frontend)
 Render (Backend)
 
 ## 🧩 Project Structure
+
 Nexora/
 │
 ├── backend/
