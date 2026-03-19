@@ -1,11 +1,14 @@
-🚀 Nexora – AI Voice Assistant
-
-🔗 Live Demo: https://nexora-omega-mauve.vercel.app/
+<h1 align="center">🚀 Nexora – AI Voice Assistant</h1> <h3 align="center"> Talk, listen, and interact with a futuristic AI assistant using both voice and text in real-time. </h3>
 
 🌌 Overview
 
 Nexora is a futuristic AI-powered assistant that allows users to interact using both text and voice.
 It combines intelligent conversation, real-time responses, and an interactive UI to deliver a next-generation assistant experience.
+
+🌐 Live Demo: https://nexora-omega-mauve.vercel.app/
+📂 GitHub Repository: https://github.com/your-username/Nexora
+
+
 ✨ Key Features
 💬 Smart AI Chat
 
