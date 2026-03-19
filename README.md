@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Nexora – AI Voice Assistant</h1> <h3 align="center"> Talk, listen, and interact with a futuristic AI assistant using both voice and text in real-time. </h3>
 
-🌌 Overview
+## 🌌 Overview
 
 Nexora is a futuristic AI-powered assistant that allows users to interact using both text and voice.
 It combines intelligent conversation, real-time responses, and an interactive UI to deliver a next-generation assistant experience.
@@ -9,7 +9,7 @@ It combines intelligent conversation, real-time responses, and an interactive UI
 📂 GitHub Repository: https://github.com/your-username/Nexora
 
 
-✨ Key Features
+## ✨ Key Features
 💬 Smart AI Chat
 
 Real-time conversational AI
@@ -46,7 +46,7 @@ Frontend on Vercel
 
 Backend on Render
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 🔹 Frontend
 
 React (Vite)
@@ -65,7 +65,7 @@ Vercel (Frontend)
 
 Render (Backend)
 
-🧩 Project Structure
+## 🧩 Project Structure
 Nexora/
 │
 ├── backend/
@@ -78,7 +78,7 @@ Nexora/
 │
 ├── .gitignore
 └── README.md
-⚙️ Local Setup
+## ⚙️ Local Setup
 1️⃣ Clone Repo
 git clone https://github.com/your-username/Nexora.git
 cd Nexora
@@ -112,7 +112,7 @@ Response:
 {
   "response": "Hello! How can I assist you?"
 }
-🎯 Unique Highlights
+## 🎯 Unique Highlights
 
 🧠 Combines AI + Voice + UI/UX in one app
 
@@ -141,7 +141,7 @@ GROQ_API_KEY=your_secret_key
 
 🤖 More advanced voice commands
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Tiya Rajput
 
@@ -149,10 +149,10 @@ Aspiring Full Stack Developer
 
 Interested in AI & Web Development
 
-⭐ Support
+## ⭐ Support
 
 If you like this project:
 ⭐ Star the repo
 🚀 Share with others
 
-🌟 Nexora – Talk. Listen. Experience AI.
+## 🌟 Nexora – Talk. Listen. Experience AI.
