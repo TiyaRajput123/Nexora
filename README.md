@@ -8,7 +8,7 @@ It combines intelligent conversation, real-time responses, and an interactive UI
 
 - 🌐 **Live Demo:** https://nexora-omega-mauve.vercel.app/
 
-- 📂 **GitHub Repository:** https://github.com/your-username/Nexora
+- 📂 **GitHub Repository:** https://github.com/TiyaRajput123/Nexora.git
 
 ---
 ## 💻 Tech Stack
@@ -72,7 +72,7 @@ Nexora/
 ## ⚙️ Local Setup
 
 1️⃣ Clone Repo
-git clone https://github.com/your-username/Nexora.git
+https://github.com/TiyaRajput123/Nexora.git
 cd Nexora
 
 2️⃣ Backend Setup
@@ -90,7 +90,9 @@ uvicorn main:app --reload
 3️⃣ Frontend Setup
 
 cd frontend
+
 npm install
+
 npm run dev
 
 🔗 API Endpoint
