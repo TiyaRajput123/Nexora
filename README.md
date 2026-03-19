@@ -73,6 +73,7 @@ Nexora/
 
 1️⃣ Clone Repo
 https://github.com/TiyaRajput123/Nexora.git
+
 cd Nexora
 
 2️⃣ Backend Setup
