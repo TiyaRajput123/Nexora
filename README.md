@@ -88,9 +88,11 @@ Run backend:
 uvicorn main:app --reload
 
 3️⃣ Frontend Setup
+
 cd frontend
 npm install
 npm run dev
+
 🔗 API Endpoint
 
 POST /chat
@@ -107,17 +109,6 @@ Response:
   "response": "Hello! How can I assist you?"
 }
 
-## 🎯 Unique Highlights
-
-🧠 Combines AI + Voice + UI/UX in one app
-
-🎤 Dual interaction: Speak + Chat
-
-🌗 Modern UX with Dark/Light Mode Toggle
-
-🎵 Extra interactive elements like Music Control
-
-🚀 Fully deployed full-stack project
 
 ## 🔐 Environment Variables
 GROQ_API_KEY=your_secret_key
